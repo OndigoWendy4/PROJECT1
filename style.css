@@ -13,9 +13,8 @@ sub{
 /*Styling the body*/
 body { 
   background-image:url(b3.jpeg);
-  font-family: Helvetica, sans-serif;
-  padding: 5%;
-  
+font-family: Arial, Helvetica, sans-serif;
+ padding:5%; 
 }
    
 /*Styling headings*/
@@ -111,28 +110,33 @@ main{
   background-image:url(images/BABYWENDY.png);
   height: 510px;
   width: 728px;
+  background-size: contain;
 }
 
 .slide:nth-child(2) {
   background-image: url(images/MMHAWARD.jpg);
   height: 510px;
   width: 728px;
+  background-size: contain;
 }
 
 .slide:nth-child(3) {
  background-image: url(images/MMH.png);
  height: 510px;
   width: 728px;
+  background-size: contain;
 }
 .slide:nth-child(4) {
   background-image: url(images/TEAM.png);
   height: 510px;
   width: 728px;
+  background-size: contain;
 }
 .slide:nth-child(5) {
   background-image: url(images/SOLO1.png);
   height: 510px;
   width: 728px;
+  background-size: contain;
 
 }
 
